@@ -1,0 +1,35 @@
+body {
+  background: #b3d7ff96;
+}
+.container {
+  margin-top: 5%;
+}
+
+select {
+  cursor: pointer;
+}
+
+.badge-notify{
+  position:relative;
+  top: -3px;
+  left: -35px;
+}
+
+.loader {
+  padding: 50px 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000000c4
+}
+
+.svg{
+  width: 100%;
+         height: 100%;
+         display: flex;
+         flex-direction: row;
+         justify-content: center;
+         align-items: center
+}

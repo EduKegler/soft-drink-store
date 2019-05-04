@@ -1,0 +1,1 @@
+export const STORE_URL = "https://api.adsim.co/crm/api/v1/refrigerante/listar"
